@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553820468187.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "87AB8002",
+    "lastKnownWriteTime" : 236223201309,
+    "last_content_update" : 1553820468187,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E2E54206",
+        "caption" : "ufo_filtered",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=ufo_filtered&cache_key=E2E54206",
+        "displayedObservations" : "74535",
+        "environment" : "",
+        "object" : "ufo_filtered",
+        "preview" : "0",
+        "totalObservations" : "74535",
+        "variables" : "11"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

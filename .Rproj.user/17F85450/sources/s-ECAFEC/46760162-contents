@@ -1,0 +1,48 @@
+UFO Sighting Explorer
+========================================================
+author: Scott Duda
+date: `r format(Sys.Date(), "%B %d, %Y")`
+autosize: true
+
+Application 
+========================================================
+
+* This Shiny application allows the user to filter and explore over 60,000 UFO sightings reported in the U.S. between 1949 and 2013. 
+* It displays a heat map across the U.S. that indicates the number of sightings occurring within each individual state given the user-selected criteria. The user may also browse through sighting descriptions. 
+* The user can select a range of dates and can filter sightings included in the analysis by selecting which states and/or reported UFO shapes to include.
+
+Application Operation
+========================================================
+
+* The application was developed using Shiny, a web application framework written for R
+* The source code for the application includes two files:  server.R and ui.R
+* The server.R file includes the code used to construct the app and give it functionality
+* The ui.R file includes code for controlling the appearance of the application that users intearct with
+* The application uses the plotly library for displaying UFO sighting data across the U.S.
+* The application also filters the sightings included on the U.S. map based on user selected inputs, including the range of dates during which the sighting occurred, the sighting state, and the shape of the UFO reported
+* Users may read descriptions of each sighting currently included in the analysis by clicking on the "Sighting Descriptions" tab
+* You can view the application source code here:  [Github repo] ()
+* A functioning version of the applicatino can be viewed here:  [Application] ()
+
+Data Source
+========================================================
+
+* This application uses data that was scraped from the National UFO Reporting Center. The dataset was downloaded from [Kaggle] (https://www.kaggle.com/NUFORC/ufo-sightings) 
+* Two datasets were available (complete and scrubbed). The scrubbed dataset excludes entries where the sighting location was not found or was blank as well as sightings with erroneous or blank times. The scrubbed dataset was selected for this application.
+* The original dataset included over 80,000 sighting reports. Additional data processing and cleaning was performed on the dataset, including removal of all sightings that were not identified as occurring within the U.S. and removal of sightings 
+
+
+A Brief Look at the Data
+========================================================
+
+* The structure of the unprocessed dataset is shown below:
+
+```{r}
+ufo <- read.csv('scrubbed.csv')
+str(ufo)
+```
+
+
+
+
+

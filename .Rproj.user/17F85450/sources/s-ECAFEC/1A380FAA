@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553818168941.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3179342177",
+    "id" : "1A380FAA",
+    "lastKnownWriteTime" : 1554204505,
+    "last_content_update" : 1554204505803,
+    "path" : "~/Projects/datasciencecoursera/ufo-sightings/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "78,0",
+        "scrollLine" : "75"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
