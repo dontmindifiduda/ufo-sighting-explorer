@@ -21,8 +21,8 @@ Application Operation
 * The application uses the plotly library for displaying UFO sighting data across the U.S.
 * The application also filters the sightings included on the U.S. map based on user selected inputs, including the range of dates during which the sighting occurred, the sighting state, and the shape of the UFO reported
 * Users may read descriptions of each sighting currently included in the analysis by clicking on the "Sighting Descriptions" tab
-* You can view the application source code here:  [Github repo] ()
-* A functioning version of the applicatino can be viewed here:  [Application] ()
+* You can view the application source code here:  [Github repo] (https://github.com/dontmindifiduda/ufo-sighting-explorer)
+* A functioning version of the application can be viewed here:  [Application] ()
 
 Data Source
 ========================================================
