@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3179342177",
+    "hash" : "0",
     "id" : "1A380FAA",
     "lastKnownWriteTime" : 1554204505,
     "last_content_update" : 1554204505803,
     "path" : "~/Projects/datasciencecoursera/ufo-sightings/server.R",
     "project_path" : "server.R",
     "properties" : {
-        "cursorPosition" : "78,0",
-        "scrollLine" : "75"
+        "cursorPosition" : "77,4",
+        "scrollLine" : "68"
     },
     "relative_order" : 2,
     "source_on_save" : false,

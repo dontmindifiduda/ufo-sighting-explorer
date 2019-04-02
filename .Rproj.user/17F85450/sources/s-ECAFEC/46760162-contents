@@ -22,14 +22,15 @@ Application Operation
 * The application also filters the sightings included on the U.S. map based on user selected inputs, including the range of dates during which the sighting occurred, the sighting state, and the shape of the UFO reported
 * Users may read descriptions of each sighting currently included in the analysis by clicking on the "Sighting Descriptions" tab
 * You can view the application source code here:  [Github repo] (https://github.com/dontmindifiduda/ufo-sighting-explorer)
-* A functioning version of the application can be viewed here:  [Application] ()
+* A functioning version of the application can be viewed here:  [Application] (https://scottmduda.shinyapps.io/ufo-sightings/)
 
 Data Source
 ========================================================
 
 * This application uses data that was scraped from the National UFO Reporting Center. The dataset was downloaded from [Kaggle] (https://www.kaggle.com/NUFORC/ufo-sightings) 
-* Two datasets were available (complete and scrubbed). The scrubbed dataset excludes entries where the sighting location was not found or was blank as well as sightings with erroneous or blank times. The scrubbed dataset was selected for this application.
-* The original dataset included over 80,000 sighting reports. Additional data processing and cleaning was performed on the dataset, including removal of all sightings that were not identified as occurring within the U.S. and removal of sightings 
+* Two datasets were available (complete and scrubbed). The scrubbed dataset excludes entries where the sighting location was not found or was blank as well as sightings with erroneous or blank times. The scrubbed dataset was selected for this application
+* The original dataset included over 80,000 sighting reports. Additional data processing and cleaning was performed on the dataset, including removal of all sightings that were not identified as occurring within the U.S. and removal of sightings that do not include a state label
+* The processed dataset includes over 60,000 sighting reports
 
 
 A Brief Look at the Data

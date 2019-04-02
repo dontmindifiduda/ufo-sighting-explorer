@@ -1,0 +1,12 @@
+name: ufo-sightings
+title: ufo-sightings
+username:
+account: scottmduda
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 831955
+bundleId: 1981189
+url: https://scottmduda.shinyapps.io/ufo-sightings/
+when: 1554205938.82437
+asMultiple: FALSE
+asStatic: FALSE
