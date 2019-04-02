@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1069187963",
+    "hash" : "2444365815",
     "id" : "46760162",
-    "lastKnownWriteTime" : 1554206376,
-    "last_content_update" : 1554206376239,
+    "lastKnownWriteTime" : 1554206627,
+    "last_content_update" : 1554206627486,
     "path" : "~/Projects/datasciencecoursera/ufo-sightings/ufo-explorer.Rpres",
     "project_path" : "ufo-explorer.Rpres",
     "properties" : {
-        "cursorPosition" : "30,254",
-        "scrollLine" : "11"
+        "cursorPosition" : "23,219",
+        "scrollLine" : "0"
     },
     "relative_order" : 5,
     "source_on_save" : false,

@@ -10,6 +10,8 @@ Application
 * This Shiny application allows the user to filter and explore over 60,000 UFO sightings reported in the U.S. between 1949 and 2013. 
 * It displays a heat map across the U.S. that indicates the number of sightings occurring within each individual state given the user-selected criteria. The user may also browse through sighting descriptions. 
 * The user can select a range of dates and can filter sightings included in the analysis by selecting which states and/or reported UFO shapes to include.
+* You can view the application source code here:  [Github repo] (https://github.com/dontmindifiduda/ufo-sighting-explorer)
+* A functioning version of the application can be viewed here:  [Application] (https://scottmduda.shinyapps.io/ufo-sightings/)
 
 Application Operation
 ========================================================
@@ -20,9 +22,7 @@ Application Operation
 * The ui.R file includes code for controlling the appearance of the application that users intearct with
 * The application uses the plotly library for displaying UFO sighting data across the U.S.
 * The application also filters the sightings included on the U.S. map based on user selected inputs, including the range of dates during which the sighting occurred, the sighting state, and the shape of the UFO reported
-* Users may read descriptions of each sighting currently included in the analysis by clicking on the "Sighting Descriptions" tab
-* You can view the application source code here:  [Github repo] (https://github.com/dontmindifiduda/ufo-sighting-explorer)
-* A functioning version of the application can be viewed here:  [Application] (https://scottmduda.shinyapps.io/ufo-sightings/)
+
 
 Data Source
 ========================================================
